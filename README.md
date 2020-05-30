@@ -1,22 +1,7 @@
 
-![GoIndex Drive](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/go-drive-logo.png)
+![GoIndex Drive](https://raw.githubusercontent.com/KrunkZhou/goindex-drive/master/logo.png)
 
-### Source
-Origin https://github.com/donwa/goindex
-
-### Quick Deployment
-1. Open https://install.kenci.workers.dev/ (goindex-drive ver. 2.4)
-2. Auth and get the code
-3. Deploy the code to [Cloudflare Workers](https://www.cloudflare.com/)
-
-#### Screenshot
-Light Theme
-![Light Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-light.png)
-
-Dark Theme![Dark Theme](https://raw.githubusercontent.com/kulokenci/goindex-drive/master/screenshot/material-dark.png)
-
----
-- Light or Dark Themes
-- Color Choice
-- Search
-- Media Playback
+### 快速部署
+1. 打开 https://install.kenci.workers.dev/ (ver. 2.4)
+2. 授权获取代码
+3. 部署到 [Cloudflare Workers](https://workers.cloudflare.com/)
